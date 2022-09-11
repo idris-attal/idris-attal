@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohammad Idris Attal</h1>
-<h3 align="center">A passionate software developer,</h3>
-
+<h3 align="center">A passionate software developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idris-attal&label=Profile%20views&color=0e75b6&style=flat" alt="idris-attal" /> </p>
+
+<p>I am a software engineer, specialising in web and desktop app development. For the last 5 years, I have been developing desktop and web applications using Java, PHP, JavaScript and Typescript programming languages.</p>
+<p>
+Currently, I am pursuing my master's degree in Software Engineering for Information Systems at Free University of Bozen-Bolzano. I am trying to explore new areas of research in software engineering and follow up with the industry change that is happening inside the software engineering domain.
+</p>
+<p>
+Something that I love about programming is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a people person and someone who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal.
+</p>
+<p>
+If you want to talk about programming, coding, software engineering, drop me a line. I am eager to hear from professionals.
+</p>
+
+
 
 - 📫 How to reach me **i.attal.npa@gmail.com**
 

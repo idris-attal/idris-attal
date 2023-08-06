@@ -8,13 +8,14 @@
 
 <p>🌐 My professional journey has been diverse, traversing public and private sectors. I've collaborated with government authority to drive impactful projects like the Electronic Government Procurement (E-GP ) system, contributing to the development and maintenance of the E-GP. Additionally, I've lent my skills to private enterprises, playing a pivotal role in crafting customer-centric web applications that elevate user experiences. Presently, I'm proud to be a part of a dynamic team responsible for the development and maintenance of cutting-edge green management systems.</p>
 
-<p>
-Something that I love about programming is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a people person and someone who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal.
+<p>💬 Something that I love about programming is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a people person and someone who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal.
 </p>
 
 <p>
 If you want to talk about programming, coding, software engineering, drop me a line. I am eager to hear from professionals.
 </p>
+
+
 
 - 📫 How to reach me **i.attal.npa@gmail.com**
 

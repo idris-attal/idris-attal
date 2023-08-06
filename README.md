@@ -2,18 +2,19 @@
 <h3 align="center">A passionate software developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idris-attal&label=Profile%20views&color=0e75b6&style=flat" alt="idris-attal" /> </p>
 
-<p>I am a software engineer, specialising in web and desktop app development. For the last 5 years, I have been developing desktop and web applications using Java, PHP, JavaScript and Typescript programming languages.</p>
-<p>
-Currently, I am pursuing my master's degree in Software Engineering for Information Systems at Free University of Bozen-Bolzano. I am trying to explore new areas of research in software engineering and follow up with the industry change that is happening inside the software engineering domain.
-</p>
+<p> I'm Idris Attal, a seasoned software developer with over 5 years of expertise in web development. With a robust background in crafting efficient and innovative solutions, I thrive in both full-stack and back-end software development realms.</p>
+
+<p>🎓 Armed with a master's degree in Software Engineering from the esteemed Free University of Bozen-Bolzano, Italy, I possess a strong academic foundation that complements my hands-on experience.</p>
+
+<p>🌐 My professional journey has been diverse, traversing public and private sectors. I've collaborated with government authority to drive impactful projects like the Electronic Government Procurement (E-GP ) system, contributing to the development and maintenance of the E-GP. Additionally, I've lent my skills to private enterprises, playing a pivotal role in crafting customer-centric web applications that elevate user experiences. Presently, I'm proud to be a part of a dynamic team responsible for the development and maintenance of cutting-edge green management systems.</p>
+
 <p>
 Something that I love about programming is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a people person and someone who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal.
 </p>
+
 <p>
 If you want to talk about programming, coding, software engineering, drop me a line. I am eager to hear from professionals.
 </p>
-
-
 
 - 📫 How to reach me **i.attal.npa@gmail.com**
 

@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idris-attal&label=Profile%20views&color=0e75b6&style=flat" alt="idris-attal" /> </p>
 
-<p> I'm Idris Attal, a seasoned software developer with over 5 years of expertise in web development. With a robust background in crafting efficient and innovative solutions, I thrive in both full-stack and back-end software development realms.</p>
+<p>👋 I'm Idris Attal, a seasoned software developer with over 5 years of expertise in web development. With a robust background in crafting efficient and innovative solutions, I thrive in both full-stack and back-end software development realms.</p>
 
 <p>🎓 Armed with a master's degree in Software Engineering from the esteemed Free University of Bozen-Bolzano, Italy, I possess a strong academic foundation that complements my hands-on experience.</p>
 

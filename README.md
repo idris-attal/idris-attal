@@ -17,8 +17,6 @@ If you want to talk about programming, coding, software engineering, drop me a l
 
 
 
-- 📫 How to reach me **i.attal.npa@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-idris-attal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-idris-attal" height="30" width="40" /></a>

@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mohammad Idris Attal</h1>
 <h3 align="center">A passionate software developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idris-attal&label=Profile%20views&color=0e75b6&style=flat" alt="idris-attal" /> </p>
 
-<p>👋 I'm Idris Attal, a seasoned software developer with over 5 years of expertise in web development. With a robust background in crafting efficient and innovative solutions, I thrive in both full-stack and back-end software development realms.</p>
-
-<p>🎓 Armed with a master's degree in Software Engineering from the esteemed Free University of Bozen-Bolzano, Italy, I possess a strong academic foundation that complements my hands-on experience.</p>
-
-<p>🌐 My professional journey has been diverse, traversing public and private sectors. I've collaborated with government authority to drive impactful projects like the Electronic Government Procurement (E-GP ) system, contributing to the development and maintenance of the E-GP. Additionally, I've lent my skills to private enterprises, playing a pivotal role in crafting customer-centric web applications that elevate user experiences. Presently, I'm proud to be a part of a dynamic team responsible for the development and maintenance of cutting-edge green management systems.</p>
-
-<p>💬 Something that I love about programming is the opportunity to work with people from a wide range of disciplines. The software development lifecycle involves working with so many different people and departments and, as a people person and someone who loves to build new relationships, it’s great to be able to come together with other professionals who are striving towards the same goal.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=idris-attal&label=Profile%20views&color=0e75b6&style=flat" alt="idris-attal" />
 </p>
 
-<p>
-If you want to talk about programming, coding, software engineering, drop me a line. I am eager to hear from professionals.
-</p>
+<p>👋 I'm Idris Attal, a seasoned software developer with 7+ years of experience in web development. I specialize in crafting efficient, scalable, and user-focused solutions across both full-stack and back-end domains.</p>
 
+<p>🎓 I hold a Master’s degree in Software Engineering from the Free University of Bozen-Bolzano, Italy — an experience that built a strong academic foundation to complement my hands-on expertise.</p>
 
+<p>🌐 My professional journey spans both public and private sectors. I’ve contributed to impactful projects such as the <b>Electronic Government Procurement (E-GP)</b> system for a government authority, focusing on its development and maintenance. In the private sector, I’ve helped design and deliver customer-centric web applications that enhance user experience. Currently, I’m part of a talented team building and maintaining cutting-edge <b>green management systems</b>.</p>
+
+<p>💬 What I love most about programming is collaborating with people from diverse backgrounds. Software development brings together professionals from many disciplines, and as someone who enjoys teamwork and building relationships, I thrive in environments where we work toward shared goals.</p>
+
+<p>📫 If you’d like to chat about programming, software engineering, or innovative tech solutions, feel free to reach out — I’d love to connect!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
